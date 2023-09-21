@@ -127,7 +127,6 @@ body{
     color: #2e2f42;
     font-size: 36px;
     text-align: center;
-    font-size: 20px;
     font-weight: 500;
     line-height: 1.11; 
     letter-spacing: 0.02em;
@@ -138,15 +137,12 @@ body{
     background-color: #FFFFFF;
     font-size: 36px;
     font-weight: 500;
-    font-size: 20px;
-    line-height: 1.11;
+    line-height: 1.11; 
     letter-spacing: 0.02em;
 }
 
 .main-content-team-pic{
     background-color: #FFFFFF;
-    font-size: 36px;
-    line-height: 1.11;
 
 }
 
