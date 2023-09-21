@@ -138,6 +138,8 @@ body{
 
 .main-content-team-pic{
     background-color: #FFFFFF;
+    font-size: 36px;
+    line-height: 1.11;
 
 }
 
@@ -151,7 +153,13 @@ body{
     }
 
 .main-content-team-person{
-    background: var(--WHITE, #FFF);
+    color: #2e2f42;
+    background:  #FFF;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+
     }
 
 .main-content-team-person-job{
@@ -166,16 +174,17 @@ body{
     text-align: center;
     font-size: 36px;
     font-weight: 700;
-    line-height: 111.111%; 
+    line-height: 1.11; 
     letter-spacing: 0.72px;
     text-transform: capitalize;
 }
 
 .main-content-portfolio-pic {
-    background: var(--WHITE, #FFF);
+    background:  #FFF;
 }
 
 .main-content-portfolio-work{
+    color: #2e2f42;
     font-size: 20px;
     font-weight: 500;
     line-height: 120%; 
